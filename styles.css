@@ -384,6 +384,7 @@ body[data-theme=fiveg] .guide-grid{grid-template-columns:repeat(3,1fr);gap:18px}
 body[data-theme=fiveg] .guide-card{border:0;border-top:3px solid var(--red);border-radius:0 0 8px 8px;padding:26px}
 body[data-theme=fiveg] .guide-card h3{font-size:1.3rem;max-width:100%}
 body[data-theme=fiveg] .devices-panel{background:#edf2f8}
+body[data-theme=fiveg] .device-note{color:#56637a}
 body[data-theme=fiveg] .support-card{border-radius:10px;background:var(--blue)}
 [dir=rtl] .hero-copy h1,[dir=rtl] h1,[dir=rtl] h2,[dir=rtl] h3{letter-spacing:0;line-height:1.4}
 [dir=rtl] .eyebrow{letter-spacing:0}
