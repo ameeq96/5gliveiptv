@@ -1,0 +1,489 @@
+{
+  "ui": {
+    "tooMany": "Too many attempts. Please wait a little before trying again.",
+    "conflict": "An earlier request may already be saved. Close this form and reopen it if you need to change or resend your details.",
+    "saveFailed": "We could not save your enquiry. Please retry or use the main contact page.",
+    "unconfirmed": "Your enquiry was not confirmed as saved. Please retry.",
+    "measurementOn": "Optional usage measurement is on for this website.",
+    "measurementOff": "Optional usage measurement is off for this website.",
+    "saveWhatsApp": "Save and open WhatsApp",
+    "saveChat": "Save and open live chat",
+    "consentWhatsApp": "I agree that Opplex IPTV may store these details and contact me on WhatsApp about this enquiry, not for marketing.",
+    "consentChat": "I agree that Opplex IPTV may store these details and handle my live-chat enquiry. This does not give permission for WhatsApp contact.",
+    "phoneInvalid": "Enter a phone number with 8–15 digits (0–9), including your country code.",
+    "required": "Please complete this field.",
+    "emailInvalid": "Enter a valid email address.",
+    "consentRequired": "Please confirm contact permission to continue.",
+    "fieldInvalid": "Please check this field.",
+    "saving": "Saving your enquiry…",
+    "saved": "Your enquiry is saved.",
+    "invalidField": "Please check the {field} field and try again.",
+    "field_name": "name",
+    "field_email": "email",
+    "field_phone": "phone",
+    "field_message": "message",
+    "field_contact_consent": "contact permission",
+    "saveTimeout": "Saving took too long. Please retry; the same request will not create a duplicate.",
+    "chatFailed": "Chat could not load. Tap the chat icon to retry, or use WhatsApp.",
+    "chatSlow": "Chat is taking longer to load. You can use WhatsApp for support.",
+    "chatLoading": "Chat is still loading. You can use WhatsApp for support.",
+    "chatOpening": "Opening live chat…",
+    "terms": "Terms of service",
+    "privacy": "Privacy policy",
+    "refund": "Refund policy",
+    "compare": "Compare the full term",
+    "equivalentNote": "Monthly equivalent = plan total ÷ months. This is a comparison only, not monthly billing. Check the final amount and any fees at checkout.",
+    "comparisonRegion": "Plan comparison; scroll horizontally if needed",
+    "comparisonCaption": "{provider} · current available plans",
+    "term": "Term",
+    "total": "Plan total",
+    "equivalent": "Monthly equivalent",
+    "connections": "Connections",
+    "confirmSupport": "Confirm with support",
+    "fullPlan": "For the full {duration} plan",
+    "finalFees": "Review the final amount and any fees at checkout",
+    "connectionCount": "Simultaneous connections: {count}",
+    "confirmConnections": "Confirm the connection allowance with support",
+    "checkout": "Continue to checkout",
+    "checkoutLabel": "Continue to checkout: {provider}, {duration}, {price}",
+    "catalogUnavailable": "Catalog unavailable",
+    "availability": "Check availability with support",
+    "deviceCheck": "Check your exact device and player with support before purchasing. A listed device is not a compatibility guarantee.",
+    "deviceContact": "Contact support to check your device.",
+    "deviceError": "Device information is temporarily unavailable. Contact support for help.",
+    "loadingPlans": "Loading current plans",
+    "loadingBrand": "Loading current brand plans from Opplex IPTV…",
+    "connecting": "Connecting to catalog",
+    "loadingDevices": "Loading device information…",
+    "missingBrand": "This page has no configured brand. Please contact support.",
+    "noPlans": "No available plans for this brand right now. Please retry or contact support.",
+    "currentBrand": "Current brand",
+    "plansAvailable": "{provider} · available plans: {count}",
+    "connected": "Catalog connected",
+    "priceNote": "Current catalog prices. Review the final total and any fees at checkout.",
+    "currentPlan": "{duration} · current plan",
+    "pricesError": "We could not load current prices. Please retry or contact support."
+  },
+  "metadata": {
+    "en": {
+      "title": "5G Live IPTV Plans & Connection Setup Guide",
+      "description": "Compare 5G Live IPTV plans and prepare your home or mobile setup. Get Wi-Fi, wired connection and troubleshooting guidance before choosing your plan.",
+      "ogTitle": "5G Live IPTV Plans & Connection Setup Guide",
+      "ogDescription": "Compare 5G Live IPTV plans and prepare your home or mobile setup. Get Wi-Fi, wired connection and troubleshooting guidance before choosing your plan.",
+      "twitterTitle": "5G Live IPTV Plans & Connection Setup Guide",
+      "twitterDescription": "Compare 5G Live IPTV plans and prepare your home or mobile setup. Get Wi-Fi, wired connection and troubleshooting guidance before choosing your plan.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/#webpage",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV Plans & Connection Setup Guide",
+            "description": "Compare 5G Live IPTV plans and prepare your home or mobile setup. Get Wi-Fi, wired connection and troubleshooting guidance before choosing your plan.",
+            "inLanguage": "en",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "es": {
+      "title": "Planes de 5G Live IPTV y guía de conexión",
+      "description": "Compara los planes de 5G Live IPTV y prepara tu configuración en casa o en el móvil. Consulta consejos de Wi-Fi, conexión por cable y resolución de problemas antes de elegir.",
+      "ogTitle": "Planes de 5G Live IPTV y guía de conexión",
+      "ogDescription": "Compara los planes de 5G Live IPTV y prepara tu configuración en casa o en el móvil. Consulta consejos de Wi-Fi, conexión por cable y resolución de problemas antes de elegir.",
+      "twitterTitle": "Planes de 5G Live IPTV y guía de conexión",
+      "twitterDescription": "Compara los planes de 5G Live IPTV y prepara tu configuración en casa o en el móvil. Consulta consejos de Wi-Fi, conexión por cable y resolución de problemas antes de elegir.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/es/#webpage",
+            "url": "https://5gliveiptv.store/es/",
+            "name": "Planes de 5G Live IPTV y guía de conexión",
+            "description": "Compara los planes de 5G Live IPTV y prepara tu configuración en casa o en el móvil. Consulta consejos de Wi-Fi, conexión por cable y resolución de problemas antes de elegir.",
+            "inLanguage": "es",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "fr": {
+      "title": "Forfaits 5G Live IPTV et guide de connexion",
+      "description": "Comparez les forfaits 5G Live IPTV et préparez votre installation à domicile ou sur mobile. Consultez nos conseils Wi-Fi, Ethernet et dépannage avant de choisir.",
+      "ogTitle": "Forfaits 5G Live IPTV et guide de connexion",
+      "ogDescription": "Comparez les forfaits 5G Live IPTV et préparez votre installation à domicile ou sur mobile. Consultez nos conseils Wi-Fi, Ethernet et dépannage avant de choisir.",
+      "twitterTitle": "Forfaits 5G Live IPTV et guide de connexion",
+      "twitterDescription": "Comparez les forfaits 5G Live IPTV et préparez votre installation à domicile ou sur mobile. Consultez nos conseils Wi-Fi, Ethernet et dépannage avant de choisir.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/fr/#webpage",
+            "url": "https://5gliveiptv.store/fr/",
+            "name": "Forfaits 5G Live IPTV et guide de connexion",
+            "description": "Comparez les forfaits 5G Live IPTV et préparez votre installation à domicile ou sur mobile. Consultez nos conseils Wi-Fi, Ethernet et dépannage avant de choisir.",
+            "inLanguage": "fr",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "it": {
+      "title": "Piani 5G Live IPTV e guida alla connessione",
+      "description": "Confronta i piani 5G Live IPTV e prepara la configurazione domestica o mobile. Consulta i consigli su Wi-Fi, cavo e risoluzione dei problemi prima di scegliere.",
+      "ogTitle": "Piani 5G Live IPTV e guida alla connessione",
+      "ogDescription": "Confronta i piani 5G Live IPTV e prepara la configurazione domestica o mobile. Consulta i consigli su Wi-Fi, cavo e risoluzione dei problemi prima di scegliere.",
+      "twitterTitle": "Piani 5G Live IPTV e guida alla connessione",
+      "twitterDescription": "Confronta i piani 5G Live IPTV e prepara la configurazione domestica o mobile. Consulta i consigli su Wi-Fi, cavo e risoluzione dei problemi prima di scegliere.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/it/#webpage",
+            "url": "https://5gliveiptv.store/it/",
+            "name": "Piani 5G Live IPTV e guida alla connessione",
+            "description": "Confronta i piani 5G Live IPTV e prepara la configurazione domestica o mobile. Consulta i consigli su Wi-Fi, cavo e risoluzione dei problemi prima di scegliere.",
+            "inLanguage": "it",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "nl": {
+      "title": "5G Live IPTV-abonnementen en verbindingsgids",
+      "description": "Vergelijk 5G Live IPTV-abonnementen en bereid je opstelling thuis of onderweg voor. Bekijk tips voor Wi-Fi, bekabelde verbindingen en probleemoplossing voordat je kiest.",
+      "ogTitle": "5G Live IPTV-abonnementen en verbindingsgids",
+      "ogDescription": "Vergelijk 5G Live IPTV-abonnementen en bereid je opstelling thuis of onderweg voor. Bekijk tips voor Wi-Fi, bekabelde verbindingen en probleemoplossing voordat je kiest.",
+      "twitterTitle": "5G Live IPTV-abonnementen en verbindingsgids",
+      "twitterDescription": "Vergelijk 5G Live IPTV-abonnementen en bereid je opstelling thuis of onderweg voor. Bekijk tips voor Wi-Fi, bekabelde verbindingen en probleemoplossing voordat je kiest.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/nl/#webpage",
+            "url": "https://5gliveiptv.store/nl/",
+            "name": "5G Live IPTV-abonnementen en verbindingsgids",
+            "description": "Vergelijk 5G Live IPTV-abonnementen en bereid je opstelling thuis of onderweg voor. Bekijk tips voor Wi-Fi, bekabelde verbindingen en probleemoplossing voordat je kiest.",
+            "inLanguage": "nl",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "pt": {
+      "title": "Planos 5G Live IPTV e guia de ligação",
+      "description": "Compare os planos 5G Live IPTV e prepare a sua configuração em casa ou no telemóvel. Consulte orientações sobre Wi-Fi, cabo e resolução de problemas antes de escolher.",
+      "ogTitle": "Planos 5G Live IPTV e guia de ligação",
+      "ogDescription": "Compare os planos 5G Live IPTV e prepare a sua configuração em casa ou no telemóvel. Consulte orientações sobre Wi-Fi, cabo e resolução de problemas antes de escolher.",
+      "twitterTitle": "Planos 5G Live IPTV e guia de ligação",
+      "twitterDescription": "Compare os planos 5G Live IPTV e prepare a sua configuração em casa ou no telemóvel. Consulte orientações sobre Wi-Fi, cabo e resolução de problemas antes de escolher.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/pt/#webpage",
+            "url": "https://5gliveiptv.store/pt/",
+            "name": "Planos 5G Live IPTV e guia de ligação",
+            "description": "Compare os planos 5G Live IPTV e prepare a sua configuração em casa ou no telemóvel. Consulte orientações sobre Wi-Fi, cabo e resolução de problemas antes de escolher.",
+            "inLanguage": "pt",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "ru": {
+      "title": "Тарифы 5G Live IPTV и руководство по подключению",
+      "description": "Сравните тарифы 5G Live IPTV и подготовьте домашнюю или мобильную конфигурацию. Изучите советы по Wi-Fi, кабельному соединению и устранению неполадок перед выбором.",
+      "ogTitle": "Тарифы 5G Live IPTV и руководство по подключению",
+      "ogDescription": "Сравните тарифы 5G Live IPTV и подготовьте домашнюю или мобильную конфигурацию. Изучите советы по Wi-Fi, кабельному соединению и устранению неполадок перед выбором.",
+      "twitterTitle": "Тарифы 5G Live IPTV и руководство по подключению",
+      "twitterDescription": "Сравните тарифы 5G Live IPTV и подготовьте домашнюю или мобильную конфигурацию. Изучите советы по Wi-Fi, кабельному соединению и устранению неполадок перед выбором.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/ru/#webpage",
+            "url": "https://5gliveiptv.store/ru/",
+            "name": "Тарифы 5G Live IPTV и руководство по подключению",
+            "description": "Сравните тарифы 5G Live IPTV и подготовьте домашнюю или мобильную конфигурацию. Изучите советы по Wi-Fi, кабельному соединению и устранению неполадок перед выбором.",
+            "inLanguage": "ru",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "ur": {
+      "title": "5G Live IPTV کے پلان اور کنکشن سیٹ اپ گائیڈ",
+      "description": "5G Live IPTV کے پلانوں کا موازنہ کریں اور گھر یا موبائل کا سیٹ اپ تیار کریں۔ انتخاب سے پہلے Wi-Fi، کیبل کنکشن اور خرابی دور کرنے کی رہنمائی حاصل کریں۔",
+      "ogTitle": "5G Live IPTV کے پلان اور کنکشن سیٹ اپ گائیڈ",
+      "ogDescription": "5G Live IPTV کے پلانوں کا موازنہ کریں اور گھر یا موبائل کا سیٹ اپ تیار کریں۔ انتخاب سے پہلے Wi-Fi، کیبل کنکشن اور خرابی دور کرنے کی رہنمائی حاصل کریں۔",
+      "twitterTitle": "5G Live IPTV کے پلان اور کنکشن سیٹ اپ گائیڈ",
+      "twitterDescription": "5G Live IPTV کے پلانوں کا موازنہ کریں اور گھر یا موبائل کا سیٹ اپ تیار کریں۔ انتخاب سے پہلے Wi-Fi، کیبل کنکشن اور خرابی دور کرنے کی رہنمائی حاصل کریں۔",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/ur/#webpage",
+            "url": "https://5gliveiptv.store/ur/",
+            "name": "5G Live IPTV کے پلان اور کنکشن سیٹ اپ گائیڈ",
+            "description": "5G Live IPTV کے پلانوں کا موازنہ کریں اور گھر یا موبائل کا سیٹ اپ تیار کریں۔ انتخاب سے پہلے Wi-Fi، کیبل کنکشن اور خرابی دور کرنے کی رہنمائی حاصل کریں۔",
+            "inLanguage": "ur",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "ar": {
+      "title": "باقات 5G Live IPTV ودليل إعداد الاتصال",
+      "description": "قارن باقات 5G Live IPTV وجهّز إعدادك المنزلي أو المحمول. احصل على إرشادات Wi-Fi والاتصال السلكي واستكشاف المشكلات قبل الاختيار.",
+      "ogTitle": "باقات 5G Live IPTV ودليل إعداد الاتصال",
+      "ogDescription": "قارن باقات 5G Live IPTV وجهّز إعدادك المنزلي أو المحمول. احصل على إرشادات Wi-Fi والاتصال السلكي واستكشاف المشكلات قبل الاختيار.",
+      "twitterTitle": "باقات 5G Live IPTV ودليل إعداد الاتصال",
+      "twitterDescription": "قارن باقات 5G Live IPTV وجهّز إعدادك المنزلي أو المحمول. احصل على إرشادات Wi-Fi والاتصال السلكي واستكشاف المشكلات قبل الاختيار.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/ar/#webpage",
+            "url": "https://5gliveiptv.store/ar/",
+            "name": "باقات 5G Live IPTV ودليل إعداد الاتصال",
+            "description": "قارن باقات 5G Live IPTV وجهّز إعدادك المنزلي أو المحمول. احصل على إرشادات Wi-Fi والاتصال السلكي واستكشاف المشكلات قبل الاختيار.",
+            "inLanguage": "ar",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "hi": {
+      "title": "5G Live IPTV प्लान और कनेक्शन सेटअप गाइड",
+      "description": "5G Live IPTV प्लान की तुलना करें और घर या मोबाइल का सेटअप तैयार करें। चुनने से पहले Wi-Fi, केबल कनेक्शन और समस्या हल करने की जानकारी पाएँ।",
+      "ogTitle": "5G Live IPTV प्लान और कनेक्शन सेटअप गाइड",
+      "ogDescription": "5G Live IPTV प्लान की तुलना करें और घर या मोबाइल का सेटअप तैयार करें। चुनने से पहले Wi-Fi, केबल कनेक्शन और समस्या हल करने की जानकारी पाएँ।",
+      "twitterTitle": "5G Live IPTV प्लान और कनेक्शन सेटअप गाइड",
+      "twitterDescription": "5G Live IPTV प्लान की तुलना करें और घर या मोबाइल का सेटअप तैयार करें। चुनने से पहले Wi-Fi, केबल कनेक्शन और समस्या हल करने की जानकारी पाएँ।",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://5gliveiptv.store/#website",
+            "url": "https://5gliveiptv.store/",
+            "name": "5G Live IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://5gliveiptv.store/hi/#webpage",
+            "url": "https://5gliveiptv.store/hi/",
+            "name": "5G Live IPTV प्लान और कनेक्शन सेटअप गाइड",
+            "description": "5G Live IPTV प्लान की तुलना करें और घर या मोबाइल का सेटअप तैयार करें। चुनने से पहले Wi-Fi, केबल कनेक्शन और समस्या हल करने की जानकारी पाएँ।",
+            "inLanguage": "hi",
+            "isPartOf": {
+              "@id": "https://5gliveiptv.store/#website"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
